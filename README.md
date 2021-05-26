@@ -7,6 +7,13 @@
 1) Install [Java Development Kit](https://www.oracle.com/in/java/technologies/javase-downloads.html)
 2) Install [Android Studio](https://developer.android.com/studio)
 
+<p align="center">
+  <a href="https://github.com/rajathpi/health-first/blob/main/Health%20First.apk">
+    <img src="https://www.inspirefm.org/wp-content/uploads/button-apk.png" height="100">
+  </a>
+</p>
+
+
  <p align="center">
 <img src="https://i.imgur.com/vlJhczS.png" >
 </p>
