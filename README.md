@@ -8,7 +8,7 @@
 2) Install [Android Studio](https://developer.android.com/studio)
 
 <p align="center">
-  <a href="https://github.com/rajathpi/health-first/blob/main/Health%20First.apk">
+  <a href="https://github.com/rajathpi/health-first/blob/main/Health%20First.apk?raw=true">
     <img src="https://www.inspirefm.org/wp-content/uploads/button-apk.png" height="100">
   </a>
 </p>
