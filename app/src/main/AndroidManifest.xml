@@ -9,9 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.HealthFirst">
-        <activity android:name=".MainActivity3"></activity>
+        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".MainActivity5" />
+        <activity android:name=".MainActivity4" />
+        <activity android:name=".MainActivity3" />
         <activity android:name=".MainActivity2" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".MainActivity6">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
