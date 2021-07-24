@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/JAKQTEr.png" >
+<img src="https://imgur.com/41T4zcR.png" >
 </p>
 
 
@@ -33,6 +33,16 @@
  <p align="center">
 <img src="https://i.imgur.com/wF8oMjh.png" >
 <img src="https://i.imgur.com/qSpD1i2.png" >
+</p>
+
+ <p align="center">
+<img src="https://imgur.com/oM8xubN.png" >
+<img src="https://imgur.com/usaADuX.png" >
+</p>
+
+ <p align="center">
+<img src="https://imgur.com/pQeQm8X.png" >
+<img src="https://imgur.com/kU8BC8W.png" >
 </p>
 
 
