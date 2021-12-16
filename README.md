@@ -1,4 +1,7 @@
-# Health First App🍎
+<h1 align="center"> 
+    <a href="https://rajathpi.github.io/health-first/">Health First</a>  
+    <img src="https://cdn-icons-png.flaticon.com/512/46/46504.png" width="70" align="center">
+</h1>
 
 "One Stop Shop" for all facts regarding nutrients, vitamins, and minerals present in the fruits, vegetables, and meat at your fingertips.
 
